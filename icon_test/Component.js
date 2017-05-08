@@ -21,6 +21,9 @@ sap.ui.define(['sap/ui/core/UIComponent'],
 					]
 				}
 			}
+		},
+		someChange: {
+			myVar : "test this"
 		}
 	});
 
